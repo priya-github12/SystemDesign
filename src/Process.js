@@ -13,6 +13,11 @@ function App() {
   min-height: 27px;
   width: 132px;
 }
+.impact-analysis {
+  letter-spacing: 0;
+  min-height: 41px;
+  width: 199px;
+}
 .cmr-1 {
   letter-spacing: 0;
   min-height: 32px;
