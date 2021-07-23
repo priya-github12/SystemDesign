@@ -7,14 +7,88 @@ function App() {
 function App() {
   return <div className="rectangle-31"></div>;
 }
+
+function App() {
+  return <div className="rectangle-78"></div>;
+}
+
+function App() {
+  return <Text1>Remarks :</Text1>;
+}
+
+
+function App() {
+  return <Text1>How many Business Area(s) are impacted ?</Text1>;
+}
 function App() {
 return <div className="rectangle-38"></div>;
 }
 
+function App() {
+  return <Text1>System/Project Name</Text1>;
+}
+  
+function App() {
+  return <div className="rectangle-31"></div>;
+}
+
+function App() {
+  return <Text1>Is business requirement clearly depicted ?</Text1>;
+}
+
+function App() {
+  return <Text1>How many locations are covered ?</Text1>;
+}
+
+  .remarks {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 178px;
+  width: 178px;
+}
+ .rectangle-31 {
+  background-color: var(--white);
+  height: 834px;
+  width: 1213px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 363px;
+  width: 363px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 363px;
+  width: 363px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 352px;
+  width: 352px;
+}
 .rectangle-38 {
   background-color: var(--mist-gray);
   height: 42px;
   width: 200px;
+}
+
+.system-project-name {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 269px;
+  width: 269px;
+}
+  .text-1 {
+  letter-spacing: 0;
+  min-height: 31px;
+  min-width: 454px;
+  width: 454px;
 }
 
 .text-1 {
