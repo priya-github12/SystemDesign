@@ -152,7 +152,12 @@ function App() {
 
 export default App;
 
-
+.name {
+  letter-spacing: 0;
+  min-height: 23px;
+  min-width: 319px;
+  width: 319px;
+}
 
 function App() {
   return <p className="fill-up-the-form">&nbsp;&nbsp;Fill up the form:</p>;
