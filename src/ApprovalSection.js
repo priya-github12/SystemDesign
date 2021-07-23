@@ -39,5 +39,42 @@ export default App;
 function App() {
   return <div className="rectangle-33"></div>;
 }
+.on-hold {
+  letter-spacing: 0;
+  min-height: 34px;
+  width: 163px;
+}
+.reject-1 {
+  letter-spacing: 0;
+  min-height: 34px;
+  width: 160px;
+}
+.approve-1 {
+  letter-spacing: 0;
+  min-height: 35px;
+  width: 141px;
+}
+
+function App() {
+  return (
+    <div className="select-member">
+      <span className="prozalibre-medium-lucky-point-18px">Select&nbsp;&nbsp;Member</span>
+      <span className="span1"></span>
+    </div>
+  );
+  
+  function App() {
+  return (
+    <div className="select-member">
+      <span className="prozalibre-medium-lucky-point-18px">Select&nbsp;&nbsp;Member</span>
+      <span className="span1"></span>
+    </div>
+  );
+  }
+  }
+
+.span1 {
+  color: var(--black);
+}
 
 
