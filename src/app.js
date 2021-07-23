@@ -1254,5 +1254,9 @@ function Text1(props) {
   top: 704px;
   width: 14px;
 }
+function App() {
+  return <div className="rectangle-2"></div>;
+}
 
+export default App;
 
