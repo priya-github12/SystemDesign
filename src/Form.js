@@ -1,120 +1,3 @@
-function App() {
-  return <p className="fill-up-the-form">&nbsp;&nbsp;Fill up the form:</p>;
-}
-function App() {
-  return <Text1>System/Project Name :</Text1>;
-}
-function App() {
-  return <div className="rectangle-31"></div>;
-}
-
-function App() {
-  return <div className="rectangle-78"></div>;
-}
-
-function App() {
-  return <Text1>Remarks :</Text1>;
-}
-
-function App() {
-  return <div className="rectangle-33"></div>;
-}
-
-export default App;
-function App() {
-  return <Text1>How many Business Area(s) are impacted ?</Text1>;
-}
-function App() {
-return <div className="rectangle-38"></div>;
-}
-
-function App() {
-  return <Text1>System/Project Name</Text1>;
-}
-  
-function App() {
-  return <div className="rectangle-31"></div>;
-}
-
-function App() {
-  return <Text1>Is business requirement clearly depicted ?</Text1>;
-}
-
-function App() {
-  return <Text1>How many locations are covered ?</Text1>;
-}
-function App() {
-  return <div className="return-1prozalibre-medium-lucky-point-18px">Return</div>;
-}
-  .remarks {
-  letter-spacing: 0;
-  min-height: 24px;
-  min-width: 178px;
-  width: 178px;
-}
- .rectangle-31 {
-  background-color: var(--white);
-  height: 834px;
-  width: 1213px;
-}
-  
-.text-1 {
-  letter-spacing: 0;
-  min-height: 28px;
-  min-width: 363px;
-  width: 363px;
-}
-  
-.text-1 {
-  letter-spacing: 0;
-  min-height: 28px;
-  min-width: 363px;
-  width: 363px;
-}
-  
-.text-1 {
-  letter-spacing: 0;
-  min-height: 28px;
-  min-width: 352px;
-  width: 352px;
-}
-.rectangle-38 {
-  background-color: var(--mist-gray);
-  height: 42px;
-  width: 200px;
-}
-
-.system-project-name {
-  letter-spacing: 0;
-  min-height: 28px;
-  min-width: 269px;
-  width: 269px;
-}
-  .text-1 {
-  letter-spacing: 0;
-  min-height: 31px;
-  min-width: 454px;
-  width: 454px;
-}
-
-.text-1 {
-  letter-spacing: 0;
-  min-height: 26px;
-  min-width: 233px;
-  width: 233px;
-}
-
-export default App;
-.fill-up-the-form {
-  color: var(--black);
-  font-family: var(--font-family-prompt);
-  font-size: var(--font-size-s2);
-  font-weight: 600;
-  letter-spacing: 0;
-  min-height: 24px;
-  width: 191px;
-}
-
 import React from 'react';
 
 function App() {
@@ -268,6 +151,163 @@ function App() {
 }
 
 export default App;
+
+
+
+function App() {
+  return <p className="fill-up-the-form">&nbsp;&nbsp;Fill up the form:</p>;
+}
+function App() {
+  return <Text1>System/Project Name :</Text1>;
+}
+function App() {
+  return <div className="rectangle-31"></div>;
+}
+function App() {
+  return <Text1>Select with whom impact analysis has been done? (If any)</Text1>;
+}
+
+function App() {
+  return <div className="rectangle-78"></div>;
+}
+
+function App() {
+  return <Text1>Remarks :</Text1>;
+}
+
+function App() {
+  return <div className="rectangle-33"></div>;
+}
+
+export default App;
+function App() {
+  return <Text1>How many Business Area(s) are impacted ?</Text1>;
+}
+function App() {
+return <div className="rectangle-38"></div>;
+}
+
+function App() {
+  return <Text1>System/Project Name</Text1>;
+}
+  
+function App() {
+  return <div className="rectangle-31"></div>;
+}
+
+function App() {
+  return <Text1>Is business requirement clearly depicted ?</Text1>;
+}
+  
+function App() {
+  return <Text1>With whom did you discuss in Security team?</Text1>;
+}
+  
+function App() {
+  return <Text1>How many locations are covered ?</Text1>;
+}
+function App() {
+  return <div className="return-1prozalibre-medium-lucky-point-18px">Return</div>;
+}
+  function App() {
+  return <Text1>If yes, with whom did you discuss in EC team?</Text1>;
+}
+  function App() {
+  return (
+    <Text1>
+      Is there any change in hardware and/or
+      <br />
+      integration ?
+    </Text1>
+  );
+  
+  .text-1 {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 317px;
+  width: 317px;
+}
+  .remarks {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 178px;
+  width: 178px;
+}
+ .rectangle-31 {
+  background-color: var(--white);
+  height: 834px;
+  width: 1213px;
+}
+    .text-1 {
+  letter-spacing: 0;
+  min-height: 21px;
+  min-width: 418px;
+  width: 418px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 363px;
+  width: 363px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 363px;
+  width: 363px;
+}
+  
+.text-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 352px;
+  width: 352px;
+}
+.rectangle-38 {
+  background-color: var(--mist-gray);
+  height: 42px;
+  width: 200px;
+}
+
+.system-project-name {
+  letter-spacing: 0;
+  min-height: 28px;
+  min-width: 269px;
+  width: 269px;
+}
+  .text-1 {
+  letter-spacing: 0;
+  min-height: 31px;
+  min-width: 454px;
+  width: 454px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  min-height: 26px;
+  min-width: 233px;
+  width: 233px;
+}
+
+export default App;
+.fill-up-the-form {
+  color: var(--black);
+  font-family: var(--font-family-prompt);
+  font-size: var(--font-size-s2);
+  font-weight: 600;
+  letter-spacing: 0;
+  min-height: 24px;
+  width: 191px;
+}
+    .text-1 {
+  letter-spacing: 0;
+  min-height: 18px;
+  min-width: 300px;
+  width: 300px;
+}
+
 
 function Text1(props) {
   const { children, className } = props;
