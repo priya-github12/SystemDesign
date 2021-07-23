@@ -16,7 +16,11 @@ function App() {
   return <Text1>Remarks :</Text1>;
 }
 
+function App() {
+  return <div className="rectangle-33"></div>;
+}
 
+export default App;
 function App() {
   return <Text1>How many Business Area(s) are impacted ?</Text1>;
 }
@@ -39,7 +43,9 @@ function App() {
 function App() {
   return <Text1>How many locations are covered ?</Text1>;
 }
-
+function App() {
+  return <div className="return-1prozalibre-medium-lucky-point-18px">Return</div>;
+}
   .remarks {
   letter-spacing: 0;
   min-height: 24px;
