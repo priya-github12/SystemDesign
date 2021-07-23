@@ -179,6 +179,8 @@ function App() {
 function App() {
   return <Text1>Remarks :</Text1>;
 }
+  
+
 
 function App() {
   return <div className="rectangle-33"></div>;
@@ -242,6 +244,13 @@ function App() {
   background-color: var(--white);
   height: 834px;
   width: 1213px;
+}
+    
+    .text-1 {
+  letter-spacing: 0;
+  min-height: 18px;
+  min-width: 418px;
+  width: 418px;
 }
     .text-1 {
   letter-spacing: 0;
